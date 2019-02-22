@@ -3,3 +3,9 @@ Detect the face from the webcam and stores the detected face in a folder(faceCap
 
 
 excute the run.py file in the terminal.
+
+
+Pre Requisite :
+
+
+pip install opencv-python
